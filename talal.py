@@ -1,7 +1,5 @@
 def talal(msg):
     print(msg)
 
-#another fuck you
-#no fuck you
-#fuck youuuuu
+#no longer comments
 talal("Hello world")
