@@ -1,9 +1,6 @@
 def talal(msg):
     print(msg)
 
-<<<<<<< HEAD
 #no fuck you
-=======
-#fuck you
->>>>>>> refs/remotes/origin/main
+#fuck youuuuu
 talal("Hello world")
